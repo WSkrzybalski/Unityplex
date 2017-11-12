@@ -1,5 +1,5 @@
 # Unityplex
 Unity version of Supaplex game  
-## TEST 1
-sfsfs
+## Opis
+Założeniem projektu jest stworzenie prostej gry typu Supaplex. Projekt będzie rozwijany i będzie sukcesywnie otrzymywał nowe funkcjonalności
 ## TEST 2
