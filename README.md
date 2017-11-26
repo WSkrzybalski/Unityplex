@@ -18,3 +18,6 @@ Założeniem projektu jest stworzenie prostej gry typu Supaplex. Projekt będzie
 - [ ] stworzenie prostej mapy **60 min**
 
 Łączny czas pomnożony razy 1,5 to około **17 godzin**
+
+
+![GitHub Logo](https://vignette.wikia.nocookie.net/8bit/images/d/d4/Supaplex2.gif/revision/latest?cb=20160629110744&path-prefix=pl)
